@@ -1,0 +1,6 @@
+{
+  "name": "Jesko Jets",
+  "description": "Jesko Jets ultra-long-range private aviation, featuring the Gulfstream G650ER interactive flight path visualization and cinematic plane motion animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
